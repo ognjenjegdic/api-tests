@@ -3,9 +3,11 @@
 This is basic setup for API testing using Frisby.js\
 Frisby.js is using Jest to run tests and Jasmine for assertions.
 
-For more information go to: 
-https://docs.frisbyjs.com/\
-https://jestjs.io/\
+For more information go to: \
+https://docs.frisbyjs.com/
+
+https://jestjs.io/
+
 https://jasmine.github.io/
 
 
